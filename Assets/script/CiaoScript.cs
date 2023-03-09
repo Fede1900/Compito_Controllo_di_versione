@@ -18,7 +18,6 @@ public class CiaoScript : MonoBehaviour
         {
             volte++;
             Debug.LogFormat("Ciao sono un cubo, mi hai premuto {0} volte", volte);
-            Debug.Log("sotto di me ho un piano");
         }
     }
 }
